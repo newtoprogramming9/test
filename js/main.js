@@ -159,7 +159,7 @@ let model;
 
     //model = await tf.loadLayersModel('C://Users//AVISHKAR//3D Objects//nf//models//model.json')
 	//model = await tf.loadLayersModel("https://github.com/newtoprogramming9/test/blob/main/model.json")
-	model = await tf.loadLayersModel("https://github.com/newtoprogramming9/test/blob/main/models/model.json")
+	model = await tf.loadLayersModel("https://newtoprogramming9.github.io/test/blob/main/models/model.json")
     //model = await tf.loadLayersModel("https://maneprajakta.github.io/Digit_Recognition_Web_App/models/model.json")
     console.log("model loaded..");
 })();
